@@ -157,7 +157,7 @@ body {
   padding-bottom: 80px;
 }
 .hero .info .info-item {
-  min-width: 373.3px;
+  max-width: 373.3px;
   flex: 1;
 }
 .hero .info .info-item .info-icon {

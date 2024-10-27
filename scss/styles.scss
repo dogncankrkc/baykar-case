@@ -232,7 +232,7 @@ body {
     padding-bottom: $spacer-xl;
 
     .info-item {
-      min-width: 373.3px;
+      max-width: 373.3px;
       flex: 1;
 
       .info-icon {
