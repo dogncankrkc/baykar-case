@@ -1,0 +1,39 @@
+body {
+  background-color: #fffbeb;
+  font-family: "Roboto", sans-serif;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.navbar {
+  margin: 24px 80px;
+}
+
+.navbar-brand {
+  color: #78350f;
+}
+
+.navbar-nav {
+  gap: 16px;
+}
+
+.nav-link {
+  color: #78350f;
+}
+
+.nav-link:hover {
+  color: #602a0c;
+}
+
+.btn-signup {
+  border: solid 2px #78350f;
+  color: #78350f;
+  padding: 12px 28px;
+  width: 149px;
+  height: 48px;
+}
+
+.btn-signup:hover {
+  background-color: #602a0c;
+  color: #fff;
+}
